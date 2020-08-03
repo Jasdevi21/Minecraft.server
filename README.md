@@ -3,18 +3,18 @@ Paquete de Mods compatibles con la version 1.16.1
 
 #Lista de Mods
 
- biomes-o-plenty
- falling-tree
- hwyla
- yungs-better-caves
- simpleores
- decorative-blocks
- backpacked
- just-enough-items
- mutant-beasts
- iron-chests
- ultimate-car
- animalium
+ biomes-o-plenty.
+ falling-tree.
+ hwyla.
+ yungs-better-caves.
+ simpleores.
+ decorative-blocks.
+ backpacked.
+ just-enough-items.
+ mutant-beasts.
+ iron-chests.
+ ultimate-car.
+ animalium.
 
 Primero Tienes se tiene que Descargar el Forge:
 
